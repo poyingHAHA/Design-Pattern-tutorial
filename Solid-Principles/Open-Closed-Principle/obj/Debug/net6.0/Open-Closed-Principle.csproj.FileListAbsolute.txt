@@ -1,0 +1,15 @@
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\bin\Debug\net6.0\Open-Closed-Principle.exe
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\bin\Debug\net6.0\Open-Closed-Principle.deps.json
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\bin\Debug\net6.0\Open-Closed-Principle.runtimeconfig.json
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\bin\Debug\net6.0\Open-Closed-Principle.dll
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\bin\Debug\net6.0\Open-Closed-Principle.pdb
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\Open-Closed-Principle.csproj.AssemblyReference.cache
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\Open-Closed-Principle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\Open-Closed-Principle.AssemblyInfoInputs.cache
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\Open-Closed-Principle.AssemblyInfo.cs
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\Open-Closed-Principle.csproj.CoreCompileInputs.cache
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\Open-Closed-Principle.dll
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\refint\Open-Closed-Principle.dll
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\Open-Closed-Principle.pdb
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\Open-Closed-Principle.genruntimeconfig.cache
+E:\Design-Pattern-Tutorial\Solid-Principles\Open-Closed-Principle\obj\Debug\net6.0\ref\Open-Closed-Principle.dll
