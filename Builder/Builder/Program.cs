@@ -54,10 +54,11 @@ public class HtmlBuilder
         root.Name = rootName;
     }
 
-    public void AddChild(string childName, string childText)
+    public HtmlBuilder AddChild(string childName, string childText)
     {
         var e = new HtmlElement(childName, childText);
         root.Elements.Add(e);
+        return this;
     }
 
     public override string ToString()
@@ -94,8 +95,9 @@ class Demo
 
         // ================Builder Demo====================
         var builder = new HtmlBuilder("ul");
-        builder.AddChild("li", "Hello");
-        builder.AddChild("li", "World");
+        // So this is a very well known approach and object oriented design, which is called a fluent interface,
+        // an interface which allows you to change several calls by returning a reference to the object you're workinhg with, in this case is our builder
+        builder.AddChild("li", "Hello").AddChild("li", "World");
         Console.WriteLine(builder);
     }
 }
