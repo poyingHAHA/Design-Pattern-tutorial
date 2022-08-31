@@ -1,7 +1,7 @@
 ﻿public class Rect
 {
-    public int Width { get; set; }
-    public int Height { get; set; }
+    public virtual int Width { get; set; }
+    public virtual int Height { get; set; }
 
     public Rect()
     {
@@ -20,10 +20,10 @@
 
 public class Square : Rect
 {
-    public new int Width { 
+    public override int Width { 
         set { base.Width = base.Height = value; }
     }
-    public new int Height
+    public override int Height
     {
         set { base.Width = base.Height = value; }
     }
