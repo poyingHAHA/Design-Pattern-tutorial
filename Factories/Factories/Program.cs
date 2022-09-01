@@ -36,7 +36,7 @@ public class Demo
 {
     static void Main(string[] args)
     {
-        var p = new Point();
+        //var p = new Point();
         var point = PointFactory.NewPolarPoint(1.0, Math.PI / 2);
         Console.WriteLine(point);
     }
