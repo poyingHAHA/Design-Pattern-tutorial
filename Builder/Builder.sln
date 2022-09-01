@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder-Inheritance", "Buil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepwise-Builder", "Stepwise-Builder\Stepwise-Builder.csproj", "{AF6F201B-F4DE-4FDC-A9BF-9CF31B75097E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functional-Builder", "Functional-Builder\Functional-Builder.csproj", "{C70B2056-BA1C-4013-AB2B-817FE5CFCE31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AF6F201B-F4DE-4FDC-A9BF-9CF31B75097E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF6F201B-F4DE-4FDC-A9BF-9CF31B75097E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF6F201B-F4DE-4FDC-A9BF-9CF31B75097E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70B2056-BA1C-4013-AB2B-817FE5CFCE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70B2056-BA1C-4013-AB2B-817FE5CFCE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70B2056-BA1C-4013-AB2B-817FE5CFCE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70B2056-BA1C-4013-AB2B-817FE5CFCE31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
